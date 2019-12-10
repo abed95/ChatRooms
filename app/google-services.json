@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384453087426",
+    "firebase_url": "https://chatappphp-67b40.firebaseio.com",
+    "project_id": "chatappphp-67b40",
+    "storage_bucket": "chatappphp-67b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384453087426:android:b0f41daec8cf1347e92b5b",
+        "android_client_info": {
+          "package_name": "com.abedo.chatappphp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384453087426-l9k99ldr08tovrfdk8vndo0li11a590t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abedo.chatappphp",
+            "certificate_hash": "b913e8275e4abe3d9589a6339e0cddcb2d5dfbc5"
+          }
+        },
+        {
+          "client_id": "384453087426-d7fttpkh4tsiq8ua99kg57bol5buodtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-FJyY7O8RqPG0hatKcarJ8QPSlAzV_jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384453087426-d7fttpkh4tsiq8ua99kg57bol5buodtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
